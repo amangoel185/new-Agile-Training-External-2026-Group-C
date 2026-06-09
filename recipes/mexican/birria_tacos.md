@@ -38,8 +38,8 @@
 
 ## Method 
 
-1. Remove the stems and seeds from the dried chiles. Toast them in a dry skillet over medium heat for 1–2 minutes until fragrant.
-2. Place the toasted chiles in hot water and soak for 15–20 minutes until softened.
+1. Remove the stems and seeds from the dried chilli. Toast them in a dry skillet over medium heat for 1–2 minutes until fragrant.
+2. Place the toasted chilli in hot water and soak for 15–20 minutes until softened.
 3. Roast the tomatoes, onion, and garlic in a skillet or under a broiler until lightly charred.
 4. Blend the soaked chiles, roasted vegetables, beef broth, vinegar, cumin, oregano, cinnamon, and a little salt until smooth.
 5. Season the beef with salt and pepper. Place it in a large pot or Dutch oven and pour the blended sauce over the meat. Add the bay leaves.
@@ -63,4 +63,3 @@
 
 *Illustrative image of crispy birria tacos served with consommé for dipping.*
 
-For help with writing Markdown, see [The Markdown Guide](https://www.markdownguide.org/).
