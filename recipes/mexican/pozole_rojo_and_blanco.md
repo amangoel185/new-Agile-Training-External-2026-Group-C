@@ -64,8 +64,7 @@
 
 
 ## Photo
-
-![Pozole Rojo](https://upload.wikimedia.org/wikipedia/commons/5/50/Pozole_Rojo.jpg)
+![Pozole Rojo](https://easychickenrecipes.com/wp-content/uploads/2025/10/rotisserie-chicken-pozole-rojo-10.jpg)
 
 
 # Pozole Blanco (Mexican White Pozole)
