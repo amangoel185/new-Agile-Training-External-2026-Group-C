@@ -6,7 +6,7 @@
 - Serving Size: 6 servings (approximately 12 tacos)
 
 
-## Ingredients (clear list with quantities)
+## Ingredients
 
 ### For the Birria Meat
 - Beef chuck roast, 1.5 kg (3.3 lb), cut into large chunks
@@ -14,10 +14,10 @@
 - Salt, 2 tsp
 - Black pepper, 1 tsp
 
-### For the Chile Sauce
-- Dried guajillo chiles, 6
-- Dried ancho chiles, 3
-- Dried árbol chiles, 2 (optional, for extra heat)
+### For the Chilli Sauce
+- Dried guajillo chilli, 6
+- Dried ancho chilli, 3
+- Dried árbol chilli, 2 (optional, for extra heat)
 - Roma tomatoes, 3 medium
 - White onion, 1 medium, roughly chopped
 - Garlic cloves, 6
@@ -36,7 +36,7 @@
 - Lime wedges, for serving
 
 
-## Method (step-by-step instructions)
+## Method 
 
 1. Remove the stems and seeds from the dried chiles. Toast them in a dry skillet over medium heat for 1–2 minutes until fragrant.
 2. Place the toasted chiles in hot water and soak for 15–20 minutes until softened.
@@ -57,7 +57,7 @@
 - Offer spicy salsa or pickled jalapeños for additional heat.
 - Serve the warm consomé alongside the tacos for dipping.
 
-## Photo (optional)
+## Photo 
 
 ![Birria Tacos](https://images.unsplash.com/photo-1613514785940-daed07799d9b)
 
