@@ -5,7 +5,7 @@
 - Cooking Time: 12 minutes (total time 12 hours 30 minutes)
 - Serving Size: 4 
 
-## Ingredients (clear list with quantities)
+## Ingredients 
 
 Tonkotsu ramen
 
