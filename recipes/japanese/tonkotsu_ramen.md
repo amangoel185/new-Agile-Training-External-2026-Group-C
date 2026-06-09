@@ -77,6 +77,10 @@ Assemble the tonkotsu ramen
 
 ## Serving Suggestions
 
+Gyoza 
+Karaage 
+Takoyaki 
+
 ## Photo 
 
 ![A tasty Tonkotsu Ramen]([(https://glebekitchen.com/wp-content/uploads/2017/04/tonkotsuramenpin-1.jpg)])
