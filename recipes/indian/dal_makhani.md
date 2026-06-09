@@ -30,7 +30,7 @@
 - Extra butter, for serving
 - Small piece of charcoal (optional), for a smoky flavour
 
-## Method (step-by-step instructions)
+## Method 
 
 1. Wash and rinse urad dal (whole black lentil) and rajma (kidney beans) in a large bowl. Soak in 3 cups water overnight.
 2. In the morning, drain the water in which the dal and rajma was soaked. Transfer the dal and rajma to a pressure cooker with 1 teaspoon salt. Add around 3.5 cups water. 
