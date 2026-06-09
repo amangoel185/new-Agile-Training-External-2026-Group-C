@@ -64,9 +64,7 @@
 
 
 ## Photo
-
-![Pozole Rojo](https://images.unsplash.com/photo-1544025162-d76694265947)
-
+![Pozole Rojo](https://upload.wikimedia.org/wikipedia/commons/0/0a/Pozole_rojo.jpg)
 
 
 # Pozole Blanco (Mexican White Pozole)
