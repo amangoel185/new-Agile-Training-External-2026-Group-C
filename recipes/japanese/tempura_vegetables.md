@@ -42,7 +42,7 @@ step 3
 
 ## Serving Suggestions
 
-## Photo (optional)
+## Photo
 
 ![A tasty vegetable dish](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTB0RpZ7cYsPLSz1JJdzJPqkEVE6LOOzZnaA&s)
 
