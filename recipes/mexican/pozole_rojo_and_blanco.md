@@ -123,7 +123,4 @@
 - Serve alongside a fresh Mexican salsa for added flavor.
 
 ## Photo
-
-![Pozole Blanco](https://www.isabeleats.com/pozole-blanco/)
-
-![Pozole Blanco](https://www.isabeleats.com/wp-content/uploads/2023/04/pozole-blanco-small-8.jpg))
+![Pozole Blanco](https://www.isabeleats.com/wp-content/uploads/2023/04/pozole-blanco-small-8.jpg)
