@@ -124,11 +124,4 @@
 
 ## Photo
 
-![Pozole Blanco](https://images.unsplash.com/photo-1515003197210-e0cd71810b5f)
-
-Photo Source:
-https://images.unsplash.com/photo-1515003197210-e0cd71810b5f
-
-
-Photo Source:
-https://images.unsplash.com/photo-1544025162-d76694265947
+![Pozole Blanco]([https://images.unsplash.com/photo-1515003197210-e0cd71810b5f](https://www.isabeleats.com/wp-content/uploads/2023/04/pozole-blanco-small-8.jpg))
