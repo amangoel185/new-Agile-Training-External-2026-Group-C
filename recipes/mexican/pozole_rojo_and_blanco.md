@@ -4,7 +4,7 @@
 - Cooking Time: 3 hours (Total Time: 3 hours 25 minutes)
 - Serving Size: 8 servings
 
-## Ingredients (clear list with quantities)
+## Ingredients
 
 ### For the Soup
 
@@ -16,9 +16,9 @@
 - Bay leaves, 2
 - Salt, 2 tsp (or to taste)
 
-### For the Red Chile Sauce
+### For the Red Chilli Sauce
 
-- Dried guajillo chiles, 6
+- Dried guajillo chilli, 6
 - Dried ancho chiles, 3
 - Garlic cloves, 3
 - Ground cumin, 1 tsp
@@ -39,7 +39,7 @@
 - Dried oregano, for sprinkling
 - Tortilla chips or tostadas, for serving
 
-## Method (step-by-step instructions)
+## Method
 
 1. Place the pork shoulder, pork ribs, water, onion, garlic, bay leaves, and salt in a large stockpot.
 2. Bring to a boil, then reduce the heat and simmer for 2–2.5 hours, skimming off any foam that rises to the surface.
@@ -74,7 +74,7 @@
 - Cooking Time: 3 hours 30 minutes (Total Time: 3 hours 50 minutes)
 - Serving Size: 8 servings
 
-## Ingredients (clear list with quantities)
+## Ingredients 
 
 ### For the Soup
 
@@ -101,7 +101,7 @@
 - Crushed red pepper flakes or chile powder, optional
 - Tortilla chips, tostadas, or warm corn tortillas, for serving
 
-## Method (step-by-step instructions)
+## Method 
 
 1. Place the pork shoulder, pork ribs, water, onion, garlic, bay leaves, and salt into a large stockpot.
 2. Bring to a boil over high heat, then reduce to a gentle simmer.
