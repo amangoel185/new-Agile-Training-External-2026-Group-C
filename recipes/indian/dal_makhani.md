@@ -5,30 +5,28 @@
 - Cooking Time: 2 hours
 - Serving Size: 5
 
-## Ingredients (clear list with quantities)
-
 ### To pressure cook
 
-- 3/4 cup urad dal sabut (whole black lentil), 165 grams
-- 1/4 cup rajma (red kidney beans), 60 grams
-- 1 teaspoon salt
-- 3.5 cups water , 28 oz
+- Whole black lentils (urad dal sabut): 165 g
+- Red kidney beans (rajma): 60 g
+- Salt: 6 g
+- Water: 830 g
 
 ### Masala for the Dal
 
-- 1 tablespoon ghee
-- 3 tablespoons butter, divided, use amul butter (salted) if possible
-- 1 medium white onion, 115 grams, finely grated using a food processor
-- 2 teaspoons ginger garlic paste, use fresh paste if possible
-- 1/2 cup tomato puree, use store bought tomato puree
-- 1/2 teaspoon kashmiri red chili powder
-- 1/4 teaspoon garam masala
-- 1/2 teaspoon salt, or to taste
-- 1.5 cups water, 12 oz, as needed
-- 1/2 teaspoon sugar
-- 1/4 cup cream, 60 ml
-- more amul butter (salted), for serving
-- piece of charcoal, optional, for giving dal a smokey flavor
+- Ghee: 14 g
+- Butter: 42 g, divided
+- White onion, finely grated: 115 g
+- Ginger garlic paste: 10 g
+- Tomato purée: 120 g
+- Kashmiri red chilli powder: 1 g
+- Garam masala: 0.5 g
+- Salt: 3 g, or to taste
+- Water: 355 g, as needed
+- Sugar: 2 g
+- Double cream: 60 g
+- Extra butter, for serving
+- Small piece of charcoal (optional), for a smoky flavour
 
 ## Method (step-by-step instructions)
 
