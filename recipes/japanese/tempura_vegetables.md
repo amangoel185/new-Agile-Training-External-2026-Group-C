@@ -44,6 +44,6 @@ step 3
 
 ## Photo (optional)
 
-![A tasty vegetable dish](https://www.instagram.com/reel/C4WYkTwhfrT/)
+![A tasty vegetable dish](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTB0RpZ7cYsPLSz1JJdzJPqkEVE6LOOzZnaA&s)
 
 For help with writing Markdown, see [The Markdown Guide](https://www.markdownguide.org/).
