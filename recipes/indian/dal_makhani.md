@@ -60,6 +60,6 @@ The rich creamy and butter dish is best served with garlic naan or jeera rice.
 
 ## Photo
 
-![Dal Makhani](./dalmakhni.jpg)
+![Dal Makhani](./dalmakhani.jpg)
 
 Source: https://www.cookwithmanali.com/dal-makhani/
