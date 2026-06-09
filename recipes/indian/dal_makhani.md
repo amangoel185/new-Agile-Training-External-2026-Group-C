@@ -1,9 +1,11 @@
-# Recipe Title
+# Dal Makhani
 
 - Cuisine Type: Indian
 - Preparation Time: 10 minutes
 - Cooking Time: 2 hours
 - Serving Size: 5
+
+## Ingredients
 
 ### To pressure cook
 
