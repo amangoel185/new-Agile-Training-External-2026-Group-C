@@ -1,11 +1,11 @@
-# Recipe Title
+# Carbonara
 
 - Cuisine Type: Carbonara
 - Preparation Time: 15 minutes
 - Cooking Time: 20 minutes
 - Serving Size: 2
 
-## Ingredients (clear list with quantities)
+## Ingredients 
 
 - 3 large free-range egg yolks
 - 40g Parmesan cheese, plus extra to serve
@@ -15,7 +15,7 @@
 - extra virgin olive oil
 - black pepper
 
-## Method (step-by-step instructions)
+## Method 
 
 1. Put the egg yolks into a bowl, finely grate in the parmesan, season with pepper, then mix well with a fork and put to one side.
 2. Cut any hard skin off the pancetta and set aside, then chop the meat into small cubes.
@@ -31,7 +31,7 @@
 - Rocket salad
 - Roasted green beans 
 
-## Photo (optional)
+## Photo 
 
 <img width="440" height="400" alt="image" src="https://github.com/user-attachments/assets/94ec522e-8025-480a-bfac-adc1825a3368" />
 
