@@ -1,0 +1,35 @@
+name: Copy Issues From Template
+on:
+  # You can run this workflow from the Actions Tab
+  workflow_dispatch:
+jobs:
+  copy-issues:
+    permissions:
+      issues: write
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v6
+
+    - name: Create Config
+      env:
+        SOURCE_REPO: UoMResearchIT/Agile-Methods-Training-Template-Repository
+        TARGET_REPO: ${{ github.repository_owner }}/${{ github.event.repository.name }}
+        FIELDS: author,body,closed,comments,labels,state,title,number,projectItems
+        ISSUES_DIR: issues
+        DELETE_ISSUES_DIR_WHEN_DONE: false
+      run: |
+        echo "SOURCE_REPO=\"$SOURCE_REPO\"" >> config.cfg
+        echo "TARGET_REPO=\"$TARGET_REPO\"" >> config.cfg
+        echo "FIELDS=\"$FIELDS\"" >> config.cfg
+        echo "ISSUES_DIR=\"$ISSUES_DIR\"" >> config.cfg
+        echo "DELETE_ISSUES_DIR_WHEN_DONE=\"$DELETE_ISSUES_DIR_WHEN_DONE\"" >> config.cfg
+
+
+    - name: Copy Issues
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        ./save_issues.sh
+        ./load_issues.sh

@@ -1,0 +1,1 @@
+Add your Japanese recipes to this folder.
