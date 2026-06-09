@@ -9,35 +9,35 @@
 
 Tonkotsu ramen
 
-- 8 cups tonkotsu pork broth 
-- 12 oz good quality dried ramen noodles
+- 1893 ml tonkotsu pork broth 
+- 340g good quality dried ramen noodles
 - 4 large or extra large eggs
-- 2-3 oz enoki or other mushrooms
+- 56-85g enoki or other mushrooms
 - thinly sliced green onions
   
 Chashu pork belly
 
-- 2 lb pork belly – rolled and tied
-- 1/4 cup soy sauce
-- 1/2 cup sake
-- 1/2 cup mirin – sweet Japanese wine
-- 1/4 cup sugar
+- 907g pork belly – rolled and tied
+- 59 ml soy sauce
+- 118 ml sake
+- 118 ml cup mirin – sweet Japanese wine
+- 59 ml cup sugar
 - 2-3 cloves garlic – left whole
 - 2 green onions – coarsely chopped
 
 Soy bacon tare
 
 - 2 slices bacon – use good quality bacon here
-- 1/4 cup soy sauce
+- 0.25 soy sauce
 - 2 tbsp mirin
 - 2 tbsp sake
 - 4 tbsp shiro miso
   
 Miso Tare
 
-- 1/2 cup shiro miso
-- 1/4 cup sake
-- 1/4 cup mirin
+- 118g shiro miso
+- 59 ml sake
+- 59 ml mirin
 - pinch shichimi togarashi (optional)
 - 1-2 tsp kosher salt – depending on how salty you like your ramen.
 
